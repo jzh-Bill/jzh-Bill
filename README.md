@@ -13,9 +13,6 @@ This is introduction page of me
 
     📎[Spring2019-CS180](https://github.com/jzh-Bill/CS-180.git)  |  📎[Fall2019-CS181](https://github.com/jzh-Bill/CS-181.git) |📎[Fall2020-CS310](https://github.com/jzh-Bill/CS-310.git) | 📎[Spring2022-CS470](https://github.com/jzh-Bill/CS-470.git) | 📎[Fall2021-CS460](https://github.com/jzh-Bill/CS-460.git) |
 
-- Wallpaper Collection
-
-    🌈 [The Marvelous Wallpaper Collection](https://github.com/TheRealMilesLee/The-Wallpaper-Collection)
 - OpenCV & Machine Learning 
 
     📱 [Facial Recognition Developing Study](https://github.com/TheRealMilesLee/iOS-Developing-Study)
