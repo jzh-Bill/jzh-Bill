@@ -4,7 +4,7 @@ This is introduction page of me
 
 - 🔭 I’m currently working on the my capstone project "Facial Recognition & Alarm System"
 - 🌱 I’m currently learning the Machine learning and Network
-- 📫 How to reach me: zj8847@trumaan.edu
+- 📫 How to reach me: zj8847@truman.edu
 - ⚡ Fun fact: Love Spaces more than tabs
 
 ## Previous Project
