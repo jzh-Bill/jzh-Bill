@@ -6,7 +6,7 @@ This is introduction page of me
 - 🌱 I’m currently learning the Machine learning and Network
 - 📫 How to reach me: zj8847@truman.edu
 - 🔎 Personal Website: https://zhihaojin.tech.blog/
-- ⚡ Fun fact: Love Spaces more than tabs
+- ⚡ Fun fact: Love Spaces more than Tabs
 
 ## Previous Project
 
