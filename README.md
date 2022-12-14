@@ -11,17 +11,20 @@ This is introduction page of me
 
 - Truman Computer Science Course Project and Assignments
 
-    📎[Spring2019-CS180](https://github.com/jzh-Bill/CS-180.git)  |  📎[Fall2019-CS181](https://github.com/jzh-Bill/CS-181.git) |📎[Fall2020-CS310](https://github.com/jzh-Bill/CS-310.git) | 📎[Spring2022-CS470](https://github.com/jzh-Bill/CS-470.git) | 📎[Fall2021-CS460](https://github.com/jzh-Bill/CS-460.git) |
+    | 📎[Spring2019-CS180](https://github.com/jzh-Bill/CS-180.git) | 📎[Fall2019-CS181](https://github.com/jzh-Bill/CS-181.git) | 📎[Fall2020-CS310](https://github.com/jzh-Bill/CS-310.git) | 📎[Spring2022-CS315](https://github.com/jzh-Bill/CS-315) |  📎[Fall2021-CS460](https://github.com/jzh-Bill/CS-460.git) 
+    | 📎[Spring2022-CS470](https://github.com/jzh-Bill/CS-470.git)
 
-- OpenCV & Machine Learning 
+- Capstone Project - OpenCV & Deep Learning 
 
-    📱 [Facial Recognition Developing Study](https://github.com/TheRealMilesLee/iOS-Developing-Study)
+    📱 [Facial Recognition System Developing Study](https://github.com/TheRealMilesLee/iOS-Developing-Study)
 
 ## External Link
 
-About Dr.Rahman: <https://www.truman.edu/faculty-staff/kafi/>
+About Dr.Alan Garvey: <http://vh216602.truman.edu/agarvey/>
 
-About Dr.Beck: <http://borax.truman.edu/>
+About Dr.Ruthie Halma: <https://www.truman.edu/faculty-staff/rdare/>
+
+About Dr.Kafi Rahman: <https://www.truman.edu/faculty-staff/kafi/>
 
 contact me: zj8847@truman.edu or zhihaojin.bill@gmail.com
 
@@ -38,6 +41,6 @@ I just a student learning the C++, so the code is not the perfect, and it may ha
 
 ## Github Hightlights
 
-[![jzh-Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzh-Bill&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzh-Bill&theme=radical&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![jzh-Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzh-Bill&show_icons=true&theme=radical)](https://github.com/jzh-Bill/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzh-Bill&theme=radical&langs_count=3)](https://github.com/jzh-Bill/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRealMilesLee&repo=WechatDeveloper&show_icons=true&theme=tokyonight)](https://github.com/The-Fabulous-Truman-Developer/WechatDeveloper)
