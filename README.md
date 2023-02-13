@@ -17,7 +17,7 @@ This is introduction page of me
 
 - Capstone Project - OpenCV & Deep Learning 
 
-    📱 [Facial Recognition System Developing Study](https://github.com/TheRealMilesLee/iOS-Developing-Study)
+    📱 [Facial Recognition System Developing Study](https://github.com/jzh-Bill/Truman-Capstone-Project---Deep-learning-in-Facial-Recognition)
 
 ## External Link
 
