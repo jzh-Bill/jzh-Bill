@@ -2,9 +2,9 @@
 
 This is introduction page of me
 
-- 🔭 I’m currently working on the my capstone project "Facial Recognition & Alarm System"
-- 🌱 I’m currently learning the Machine learning and Network
-- 📫 How to reach me: zj8847@truman.edu
+- 🔭 I’m currently working with Dr.Tom Cesari as a research assistant focusing on online machine learning.
+- 🌱 I’m currently learning machine learning in the University of Ottawa
+- 📫 How to reach me: zhihaojin.bill@outlook.com
 - 🔎 Personal Website: https://zhihaojin.tech.blog/
 - ⚡ Fun fact: Love Spaces more than Tabs
 
